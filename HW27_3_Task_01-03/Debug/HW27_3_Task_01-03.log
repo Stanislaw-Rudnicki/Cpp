@@ -1,0 +1,46 @@
+﻿  HW27_3_Task_01-03.cpp
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(215,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(216,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(217,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(218,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(219,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(220,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(221,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(235,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(236,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(237,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(238,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(239,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(240,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(241,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(251,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(252,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(253,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(254,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(255,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(256,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(257,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\HW27_3_Task_01-03.cpp(276,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  HW27_3_Task_01-03.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW27_3_Task_01-03\Debug\HW27_3_Task_01-03.exe

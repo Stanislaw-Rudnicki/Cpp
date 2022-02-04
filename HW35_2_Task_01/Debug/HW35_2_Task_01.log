@@ -1,0 +1,8 @@
+﻿  HW35_2_Task_01.cpp
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\HW35_2_Task_01.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\HW35_2_Task_01.cpp(56,35): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\HW35_2_Task_01.cpp(168,19): warning C4018: '<=': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\HW35_2_Task_01.cpp(178,19): warning C4018: '<=': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\HW35_2_Task_01.cpp(226,19): warning C4018: '<=': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\date.h(186): warning C4715: 'Date::operator-=': not all control paths return a value
+  HW35_2_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\Debug\HW35_2_Task_01.exe

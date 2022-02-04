@@ -1,0 +1,4 @@
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01\Debug\HW32_1_Task_01.exe
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01\Debug\HW32_1_Task_01.pdb
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\Debug\HW32_1_Task_01.exe
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\Debug\HW32_1_Task_01.pdb

@@ -1,0 +1,4 @@
+﻿  HW33_1_Task_01.cpp
+d:\Microsoft Visual Studio\source\repos\HW33_1_Task_01\HW33_1_Task_01.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW33_1_Task_01\HW33_1_Task_01.cpp(54,35): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  HW33_1_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW33_1_Task_01\Debug\HW33_1_Task_01.exe

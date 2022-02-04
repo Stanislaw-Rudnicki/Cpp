@@ -1,0 +1,10 @@
+﻿  HW34_3_Task_03.cpp
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(106,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(157,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(182,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\HW34_3_Task_03.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
+  HW34_3_Task_03.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW34_3_Task_03\Debug\HW34_3_Task_03.exe

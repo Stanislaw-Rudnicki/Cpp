@@ -1,0 +1,14 @@
+﻿  HW27_1_Task_01.cpp
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\myString.h(70,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\myString.h(77,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\myString.h(85,24): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\myString.h(94,13): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\HW27_1_Task_01.cpp(104,24): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\HW27_1_Task_01.cpp(114,24): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\HW27_1_Task_01.cpp(121,24): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\HW27_1_Task_01.cpp(170,25): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\HW27_1_Task_01.cpp(215,24): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\HW27_1_Task_01.cpp(229,23): warning C4018: '<': signed/unsigned mismatch
+  HW27_1_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW27_1_Task_01\Debug\HW27_1_Task_01.exe

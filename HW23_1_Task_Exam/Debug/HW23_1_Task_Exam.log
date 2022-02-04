@@ -1,0 +1,3 @@
+﻿  HW23_1_Task_Exam.cpp
+d:\Microsoft Visual Studio\source\repos\HW23_1_Task_Exam\HW23_1_Task_Exam.cpp(15,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HW23_1_Task_Exam.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW23_1_Task_Exam\Debug\HW23_1_Task_Exam.exe

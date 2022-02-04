@@ -1,0 +1,2 @@
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\Debug\HW35_2_Task_01.exe
+d:\Microsoft Visual Studio\source\repos\HW35_2_Task_01\Debug\HW35_2_Task_01.pdb

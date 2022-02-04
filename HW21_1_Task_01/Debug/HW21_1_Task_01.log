@@ -1,0 +1,27 @@
+﻿  HW21_1_Task_01.cpp
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(12,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(25,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(41,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(66,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(108,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(109,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(110,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(102,7): warning C4101: 'i': unreferenced local variable
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(120,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(138,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(178,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(183,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+d:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\HW21_1_Task_01.cpp(185,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  HW21_1_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW21_1_Task_01\Debug\HW21_1_Task_01.exe

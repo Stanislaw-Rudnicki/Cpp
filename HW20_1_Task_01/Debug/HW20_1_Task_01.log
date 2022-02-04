@@ -1,0 +1,3 @@
+﻿  prog.cpp
+d:\Microsoft Visual Studio\source\repos\HW20_1_Task_01\prog.cpp(18,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW20_1_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW20_1_Task_01\Debug\HW20_1_Task_01.exe

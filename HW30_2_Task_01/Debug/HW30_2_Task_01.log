@@ -1,0 +1,15 @@
+﻿  HW30_2_Task_01.cpp
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\date.h(97,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\date.h(195,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\date.h(205,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\HW30_2_Task_01.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\HW30_2_Task_01.cpp(49,35): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\HW30_2_Task_01.cpp(298,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\HW30_2_Task_01.cpp(402,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+d:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\date.h(186): warning C4715: 'Date::operator-=': not all control paths return a value
+  HW30_2_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW30_2_Task_01\Debug\HW30_2_Task_01.exe

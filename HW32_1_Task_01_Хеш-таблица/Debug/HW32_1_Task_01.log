@@ -1,0 +1,12 @@
+﻿  HW32_1_Task_01.cpp
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\date.h(97,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\date.h(195,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\date.h(205,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\HW32_1_Task_01.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\HW32_1_Task_01.cpp(43,35): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\HW32_1_Task_01.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\HW32_1_Task_01.cpp(94,21): warning C4018: '<': signed/unsigned mismatch
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\HW32_1_Task_01.cpp(238,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\HW32_1_Task_01.cpp(319,14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\date.h(186): warning C4715: 'Date::operator-=': not all control paths return a value
+  HW32_1_Task_01.vcxproj -> D:\Microsoft Visual Studio\source\repos\HW32_1_Task_01_Хеш-таблица\Debug\HW32_1_Task_01.exe
